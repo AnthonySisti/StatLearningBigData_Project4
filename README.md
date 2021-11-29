@@ -1,6 +1,6 @@
 # StatLearningBigData_Project4
 
-This project continues with the prediction question(s) considered in the last project, but uses neural networks to model the outcome.  This project also asks students to compare their results to those in the last project. The data set I chose for this class was the Hotel Booking Data Set published by Nuno Antonio, Ana de Almeida and Luis Nunes. This data set features booking information for 119k hotel reservations. The data was gathered directly from hotel property management system databases using SQL Server Studio Manager, and contains 32 attributes. 
+This project continues with the prediction question(s) considered in the last project, but uses neural networks to model the outcome.  This project also asks students to compare their results to those in the last project. The data set I chose for this class was the Hotel Booking Data Set published by Nuno Antonio, Ana de Almeida and Luis Nunes. This data set features booking information for 119k hotel reservations. The data was gathered directly from hotel property management system databases using SQL Server Studio Manager, and contains 32 attributes. The question that motivates this data set is whether or not certain booking features can be used to predict whether a booking will be canceled or not.
 
 # Report Details
 The assignment requested the  following information:  
